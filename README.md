@@ -6,5 +6,6 @@
 - String
 - If - Else Stetments
 - Switch Statement
+- Break/Continue
 - Patterns
 - LinkedList
