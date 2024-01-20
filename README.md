@@ -1,4 +1,4 @@
-# java-intial
+# java_Intial JDK21
 
 - Introduction
 - Data Types & Variables
